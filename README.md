@@ -50,7 +50,7 @@
 | Leah Hunt         | WF 10:10am        | LeahHunt             | <https://leahhunt.github.io/Stat-184/> |
 | Kaleb Swift       | WF 10:10am       | kalebswift           | <https://kalebswift.github.io/GitHub-Practice/> |
 | Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
-<br>
+| Michael Secosky   | WF 2:30pm        | msecosky              | <https://msecosky.github.io/Stat-184-Project/> |
 
 # Integration of RStudio with Git
 
